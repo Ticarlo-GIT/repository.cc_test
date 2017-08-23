@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.cc_test" name="Test Repo CC" version="0.0.1" provider-name="carcuslm">
+	<extension point="xbmc.addon.repository" name="Test Repo CC">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Ticarlo-GIT/repository.cc_test/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Ticarlo-GIT/repository.cc_test/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Ticarlo-GIT/repository.cc_test/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">My first KODI repo for testing</summary>
+		<description lang="en">My first KODI repo for testing coding in Pythod</description>
+		<genre></genre>
+	</extension>
+</addon>
